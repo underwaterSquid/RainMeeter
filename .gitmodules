@@ -1,0 +1,3 @@
+[submodule "Voicemeeter-SDK"]
+	path = Voicemeeter-SDK
+	url = https://github.com/vburel2018/Voicemeeter-SDK.git
